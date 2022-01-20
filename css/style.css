@@ -1,0 +1,53 @@
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Mono&display=swap');
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFFBF0;
+    color: #363958;
+    
+}
+
+.golden-color{
+    color: #FABE4C;
+}
+
+.welcome{
+  padding-bottom: 50px;
+}
+
+button{
+    background-color: #A4BC46;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 10px 15px;
+}
+
+button img {
+    height: 24px;
+    width: 24px;
+}
+ button p {
+    margin-left: 5px;
+    margin-bottom: 0px;
+ }
+
+ .product-section{
+     background-color: white;
+    padding-top: 20px;
+ }
+
+ .card-img{
+     background-color: #f1f1f1;
+     border: 1px solid white;
+     border-radius: 10px;
+ }
+
+ .card{
+     border: 1px solid white;
+     border-radius: 10px;
+     box-shadow: rgb(218, 218, 218) 5px 5px 5px;
+ }
