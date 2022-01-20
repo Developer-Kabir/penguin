@@ -3,6 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
     padding: 0px;
+    margin-right: 0px;
     background-color: #FFFBF0;
     color: #363958;
     
@@ -48,6 +49,13 @@ button img {
 
  .card{
      border: 1px solid white;
+     border-radius: 10px;
+     box-shadow: rgb(218, 218, 218) 5px 5px 5px;
+ }
+
+ .footer-card{
+     padding: 10px 0px 10px 10px;
+     border: 1 px solid white;
      border-radius: 10px;
      box-shadow: rgb(218, 218, 218) 5px 5px 5px;
  }
